@@ -1,16 +1,33 @@
-### Hi there 👋
+# Juan Sebastian Cardona Sanchez - Juansebastian987
 
-<!--
-**Juansebastian987/Juansebastian987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋
 
-Here are some ideas to get you started:
+Software Engineering student at ICESI University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- ✍🏽 I am currently improving my skills in Reac Native, React.js, Angular, Vue.js, Python, Django, Firebase, Google Cloud Platform and Amazon Werb Services.
+- 💫 I like to learn and contribute in projects of all kinds, from different sectors and tools.
+- 💼 I love data analysis and I really like the financial world!
+- 👏🏽 I like to work in collaborative environment.
+- 🌱 I am currently developing a Fintech and PropTech startup.
+- 💬 If you have any questions ask me.
+
+---
+
+## Skills
+
+- Python
+- Java
+- Vue
+- React
+- Angular
+- C#
+- JavaScript
+- SQL
+
+---
+
+Contact
+
+- [Linkedin](https://www.linkedin.com/in/juancardonasanchez/)

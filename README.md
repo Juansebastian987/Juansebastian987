@@ -10,7 +10,7 @@ Software Engineering student at ICESI University
 - 💫 I like to learn and contribute in projects of all kinds, from different sectors and tools.
 - 💼 I love data analysis and I really like the financial world!
 - 👏🏽 I like to work in collaborative environment.
-- 🌱 I am currently developing a Fintech and PropTech startup.
+- 🌱 I am currently developing a DeFi Start-Up
 - 💬 If you have any questions ask me.
 
 ---

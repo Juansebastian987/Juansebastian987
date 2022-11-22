@@ -2,7 +2,7 @@
 
 ### Hi 👋
 
-Software Engineering student at ICESI University
+Software Engineering at ICESI University
 
 ---
 
